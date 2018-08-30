@@ -1,0 +1,137 @@
+----------------- Team: 957 --------------------------------
+Wins: 25	Losses: 0
+This team's season is complete.
+
+Winning Average: 1.00
+
+Number of games remaining is less than the number of games won.
+Number of games remaining is less than or equal to the number of games lost.
+-------------------------------------------------------------
+
+
+----------------- Team: 1111 --------------------------------
+Wins: 0	Losses: 25
+This team's season is complete.
+
+Winning Average: 0.00
+
+Number of games remaining is greater than or equal to the number of games won.
+Number of games remaining is less than or equal to the number of games lost.
+-------------------------------------------------------------
+
+
+----------------- Team: 1917 --------------------------------
+Wins: 15	Losses: 10
+This team's season is complete.
+
+Winning Average: 0.60
+
+Number of games remaining is less than the number of games won.
+Number of games remaining is less than or equal to the number of games lost.
+-------------------------------------------------------------
+
+
+----------------- Team: 1718 --------------------------------
+Wins: 14	Losses: 11
+This team's season is complete.
+
+Winning Average: 0.56
+
+Number of games remaining is less than the number of games won.
+Number of games remaining is less than or equal to the number of games lost.
+-------------------------------------------------------------
+
+
+
+----------------- Team: 1646 --------------------------------
+Wins: 20	Losses: 4
+Total Games Played: 24	Games Remaining: 1
+|| If 1646 wins all remaining games then their record would be: 
+|| Wins: 21	Losses: 4
+|| If 1646 Loses all remaining games then their record would be:
+|| Wins: 20	Losses: 5
+
+Winning Average: 0.83
+
+Number of games remaining is less than the number of games won.
+Number of games remaining is less than or equal to the number of games lost.
+-------------------------------------------------------------
+
+
+----------------- Team: 1999 --------------------------------
+Wins: 14	Losses: 10
+Total Games Played: 24	Games Remaining: 1
+|| If 1999 wins all remaining games then their record would be: 
+|| Wins: 15	Losses: 10
+|| If 1999 Loses all remaining games then their record would be:
+|| Wins: 14	Losses: 11
+
+Winning Average: 0.58
+
+Number of games remaining is less than the number of games won.
+Number of games remaining is less than or equal to the number of games lost.
+-------------------------------------------------------------
+
+
+----------------- Team: 1325 --------------------------------
+Wins: 11	Losses: 12
+Total Games Played: 23	Games Remaining: 2
+|| If 1325 wins all remaining games then their record would be: 
+|| Wins: 13	Losses: 12
+|| If 1325 Loses all remaining games then their record would be:
+|| Wins: 11	Losses: 14
+
+Winning Average: 0.48
+
+Number of games remaining is less than the number of games won.
+Number of games remaining is less than or equal to the number of games lost.
+-------------------------------------------------------------
+
+
+
+
+----------------- Team: 1000 --------------------------------
+Wins: 8	Losses: 15
+Total Games Played: 23	Games Remaining: 2
+|| If 1000 wins all remaining games then their record would be: 
+|| Wins: 10	Losses: 15
+|| If 1000 Loses all remaining games then their record would be:
+|| Wins: 8	Losses: 17
+
+Winning Average: 0.35
+
+Number of games remaining is less than the number of games won.
+Number of games remaining is less than or equal to the number of games lost.
+-------------------------------------------------------------
+
+
+----------------- Team: 1738 --------------------------------
+Wins: 5	Losses: 19
+Total Games Played: 24	Games Remaining: 1
+|| If 1738 wins all remaining games then their record would be: 
+|| Wins: 6	Losses: 19
+|| If 1738 Loses all remaining games then their record would be:
+|| Wins: 5	Losses: 20
+
+Winning Average: 0.21
+
+Number of games remaining is less than the number of games won.
+Number of games remaining is less than or equal to the number of games lost.
+-------------------------------------------------------------
+
+
+----------------- Team: 1010 --------------------------------
+Wins: 1	Losses: 24
+This team's season is complete.
+
+Winning Average: 0.04
+
+Number of games remaining is less than the number of games won.
+Number of games remaining is less than or equal to the number of games lost.
+-------------------------------------------------------------
+
+
+The team with the best winning average that has completed the season is: 957 with a winning average of: 1.0
+The team with the best winning average that has not completed the season is: 957 with a winning average of: 1.0
+
+Total number of teams in the league is: 10

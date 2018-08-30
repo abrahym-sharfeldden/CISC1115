@@ -1,0 +1,19 @@
+Here is the original array: 
+
+1.90	-2.00	3.40	8.30	2.10	
+-0.40	2.20	-9.40	2.30	0.40	
+-4.70	12.30	-8.20	6.60	4.20	
+
+The average was determined to be: 1.27
+The closest value to the average is: -0.40
+The furthest value to the average is: 12.30
+
+Here is the new array: 
+
+0.63	-3.27	2.13	7.03	0.83	
+-1.67	0.93	-10.67	1.03	-0.87	
+-5.97	11.03	-9.47	5.33	2.93	
+
+The average was determined to be: 0.00
+The closest value to the average is: 0.63
+The furthest value to the average is: 11.03
